@@ -1,7 +1,7 @@
 [project]
 name = "thebadcoin"
 version = "0.1.0"
-description = "Add your description here"
+description = "**TheBADCoinBot** automates various tasks on the BadCoin Telegram Bot, such as tapping and holding, with configurable options for delays and randomization."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
